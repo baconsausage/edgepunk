@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bacon Sausage</h1>
 <h3 align="center">I’d like to introduce a man with a lot of charm, talent, and wit. Unfortunately, he couldn’t be here tonight, so instead . . .</h3>
 
-![Banner](Chosen One.gif)
+![Banner](main/Chosen%20One.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgepunk&label=Profile%20views&color=0e75b6&style=flat" alt="edgepunk" /> </p>
 
